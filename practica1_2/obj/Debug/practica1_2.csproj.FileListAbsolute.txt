@@ -1,0 +1,9 @@
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\bin\Debug\practica1_2.exe.config
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\obj\Debug\practica1_2.csprojResolveAssemblyReference.cache
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\obj\Debug\practica1_2.Form1.resources
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\obj\Debug\practica1_2.Properties.Resources.resources
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\obj\Debug\practica1_2.csproj.GenerateResource.Cache
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\bin\Debug\practica1_2.exe
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\bin\Debug\practica1_2.pdb
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\obj\Debug\practica1_2.exe
+C:\Users\Niña\Desktop\MyCoffe\C# programas\practica1_2\practica1_2\obj\Debug\practica1_2.pdb
